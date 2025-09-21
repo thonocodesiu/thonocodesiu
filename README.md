@@ -1,18 +1,55 @@
-# 💫 About Me:
-👋 Hi, I’m @thonocodesiu<br>👀 I’m interested in Movie<br>🌱 I’m currently learning Chinese<br>💞️ I’m looking to collaborate on soccer<br>📫 How to reach me ig: xuka_thono<br>😄 Pronouns: thong
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xuka_thono) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Aggravating_Gur969) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thonocodesiu&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thonocodesiu&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thonocodesiu&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6AF7F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Thono+(%40thonocodesiu);Passionate+about+Movies+%F0%9F%8E%AC;Learning+Chinese+%F0%9F%87%B9%F0%9F%87%AD;Open+to+collaborate+on+Soccer+%E2%9A%BD" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thonocodesiu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👋 Hi, I’m Thono (@thonocodesiu)
+
+## 💫 About Me
+- 🎬 Passionate about **Movies**  
+- 🌱 Currently learning **Chinese**  
+- ⚽ Open to collaborate on **Soccer projects**  
+- 📫 Reach me on **Instagram**: [@xuka_thono](https://instagram.com/xuka_thono)  
+- 😄 Pronouns: **Thong**  
+
+---
+
+## 🌐 Socials
+<p align="left">
+  <a href="https://instagram.com/xuka_thono"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://reddit.com/user/Aggravating_Gur969"><img src="https://skillicons.dev/icons?i=reddit" height="40"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,html,python,nodejs,dotnet,mysql,mongodb,vercel,canva,figma" />
+</p>
+
+
+---
+
+## 📈 Fun Stats (for flex 😎)
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20hours-5%2C432h-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lines%20of%20code-1.2M-green?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bugs%20fixed-732-yellow?style=for-the-badge&logo=bugatti&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coffee%20cups-4,210-brown?style=for-the-badge&logo=coffeescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Commits-8,540-orange?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects%20completed-42-9cf?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-128-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/StackOverflow%20rep-15k-red?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</p>
+
+---
+
+## ✨ Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thonocodesiu&style=for-the-badge&color=blueviolet" alt="profile views"/>
+</p>
